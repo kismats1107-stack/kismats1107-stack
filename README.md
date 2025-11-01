@@ -1,19 +1,32 @@
-<!-- Animated Developer Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding animation">
-</p>
+<canvas id="stars"></canvas>
+<script>
+const canvas = document.getElementById('stars');
+const ctx = canvas.getContext('2d');
+canvas.width = innerWidth; canvas.height = innerHeight;
 
-<h3 align="center">
-  <samp>
-    🌌 “Every great idea starts with a single line of code.” 🌌
-  </samp>
-</h3>
+const stars = Array.from({length: 50}, () => ({
+  x: Math.random()*canvas.width,
+  y: Math.random()*canvas.height,
+  size: Math.random()*2,
+  speed: Math.random()*2 + 0.5
+}));
 
-```yaml
-👤 Name: Kismat Shah  
-🎓 Year: 1st Year | B.Tech in Computer Science  
-💭 Dream: To blend creativity + code and make something the world remembers  
-🧠 Learning: DSA | Web Dev | C++ | AI | UI/UX  
-💡 Motto: Think it. Code it. Ship it. Repeat.  
-🚀 Mission: Building the impossible with logic & imagination.  
-🎮 Fun Fact: I debug faster when lo-fi beats are playing 🎧  
+function animate() {
+  ctx.fillStyle = "rgba(0,0,20,0.2)";
+  ctx.fillRect(0,0,canvas.width,canvas.height);
+  for (let s of stars) {
+    s.x -= s.speed;
+    s.y += s.speed;
+    if (s.x < 0 || s.y > canvas.height) {
+      s.x = Math.random()*canvas.width;
+      s.y = 0;
+    }
+    ctx.beginPath();
+    ctx.arc(s.x, s.y, s.size, 0, Math.PI*2);
+    ctx.fillStyle = "white";
+    ctx.fill();
+  }
+  requestAnimationFrame(animate);
+}
+animate();
+</script>
