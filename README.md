@@ -1,30 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Glowing Gradient | Kismat Shah</title>
-  <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background: linear-gradient(-45deg, #ff00c8, #00e0ff, #00ff6a, #ff9100);
-      background-size: 400% 400%;
-      animation: gradientShift 8s ease infinite;
-      color: white;
-      font-family: 'Orbitron', sans-serif;
-      font-size: 2rem;
-    }
-    @keyframes gradientShift {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</head>
-<body>
-  👋 Hi, I'm <strong>Kismat Shah</strong> — CSE Explorer 🚀
-</body>
-</html>
+<p align="center">
+  <img src="https://i.gifer.com/7SvS.gif" width="200" alt="coding gif">
+</p>
+
+<h3 align="center">
+  <samp>
+    🌌 “Every great idea starts with a single line of code.” 🌌
+  </samp>
+</h3>
+
+```yaml
+👤 Name: Kismat Shah  
+🎓 Year: 1st Year | B.Tech in Computer Science  
+💭 Dream: To blend creativity + code and make something the world remembers  
+🧠 Learning: DSA | Web Dev | C++ | AI | UI/UX  
+💡 Motto: Think it. Code it. Ship it. Repeat.  
+🚀 Mission: Building the impossible with logic & imagination.  
+🎮 Fun Fact: I debug faster when lo-fi beats are playing 🎧  
+
