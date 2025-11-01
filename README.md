@@ -1,5 +1,6 @@
+<!-- Animated Developer Image -->
 <p align="center">
-  <img src="https://i.gifer.com/7SvS.gif" width="200" alt="coding gif">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding animation">
 </p>
 
 <h3 align="center">
@@ -16,4 +17,3 @@
 💡 Motto: Think it. Code it. Ship it. Repeat.  
 🚀 Mission: Building the impossible with logic & imagination.  
 🎮 Fun Fact: I debug faster when lo-fi beats are playing 🎧  
-
