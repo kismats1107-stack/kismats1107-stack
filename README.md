@@ -1,6 +1,42 @@
-# 💫 About Me:
-a first-semester CSE (Computer Science & Engineering) student.<br>actively work on programming fundamentals, especially C and Python.<br>have a strong interest in Robotics and Machine Learning.<br>>have worked on or explored:<br>Arduino-based projects (like a line-following robot 🤖)<br>ESP32 & IoT systems<br><br>Drones, rovers, cameras, and sensors<br>Also like hands-on projects and practical implementations, not just theory.<br><br>
-Also participated in SIH(Smart india hackathon).<br>Participated in Odoo Hackathon.<br><br> Currently working on a smart autonomus robert.
+## 💫 About Me
+
+👋 Hi! I'm **Kismat Shah**, a **first-semester Computer Science & Engineering (CSE) student** with a strong passion for technology and innovation.
+
+### 🎓 Academic Background
+- Currently building a strong foundation in **programming fundamentals**
+- Proficient at beginner–intermediate level in:
+  - **C**
+  - **Python**
+
+### 🤖 Technical Interests
+- **Robotics**
+- **Machine Learning**
+- **Embedded Systems & IoT**
+
+### 🛠️ Hands-on Experience
+I strongly believe in learning by building. I have worked on and explored:
+- 🤖 **Arduino-based projects** (e.g., Line Following Robot)
+- 🌐 **ESP32 & IoT systems**
+- 🚁 **Drones and rovers**
+- 📷 **Cameras, sensors, and embedded hardware**
+- ⚙️ Practical implementations rather than just theoretical learning
+
+### 🧠 Hackathons & Competitions
+- 🏆 **Smart India Hackathon (SIH)** – Participant
+- 🏆 **Odoo Hackathon** – Participant
+
+### 🚀 Current Work
+- 🤖 Actively working on a **Smart Autonomous Robot**, focusing on real-world navigation and intelligence.
+
+### 🌱 Goals
+- Strengthen core CS concepts
+- Advance in **Robotics & Machine Learning**
+- Build impactful projects and contribute to open-source
+
+---
+
+📌 *Always curious. Always building.*
+
 
 
 ## 🌐 Socials:
