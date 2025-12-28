@@ -1,5 +1,6 @@
 # 💫 About Me:
-a first-semester CSE (Computer Science & Engineering) student.<br>actively work on programming fundamentals, especially C and Python.<br>have a strong interest in Robotics and Machine Learning.<br><br>have worked on or explored:<br>Arduino-based projects (like a line-following robot 🤖)<br>ESP32 & IoT systems<br><br>Drones, rovers, cameras, and sensors<br>Also like hands-on projects and practical implementations, not just theory.<br>
+a first-semester CSE (Computer Science & Engineering) student.<br>actively work on programming fundamentals, especially C and Python.<br>have a strong interest in Robotics and Machine Learning.<br>>have worked on or explored:<br>Arduino-based projects (like a line-following robot 🤖)<br>ESP32 & IoT systems<br><br>Drones, rovers, cameras, and sensors<br>Also like hands-on projects and practical implementations, not just theory.<br><br>
+Also participated in SIH(Smart india hackathon).<br>Participated in Odoo Hackathon.<br><br> Currently working on a smart autonomus robert.
 
 
 ## 🌐 Socials:
