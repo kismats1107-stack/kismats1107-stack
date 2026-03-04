@@ -99,6 +99,8 @@
 
 | 🏅 Event | 🎯 Role |
 |---|---|
+| 🇮🇳 **Teckathon** | Winner |
+| 🇮🇳 **Swarnim** | Participant |
 | 🇮🇳 **Smart India Hackathon (SIH)** | Participant |
 | 💻 **Odoo Hackathon** | Participant |
 
